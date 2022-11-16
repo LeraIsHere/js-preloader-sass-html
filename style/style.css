@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#preloader {
+  background: #FCFEFC url("../img/preloader.gif") no-repeat center;
+  height: 100vh;
+  width: 100%;
+  position: fixed;
+  z-index: 100;
+}
+#preloader.active {
+  display: none;
+}/*# sourceMappingURL=style.css.map */
